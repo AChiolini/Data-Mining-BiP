@@ -16,7 +16,7 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="              Sottoarea_62.Prodotto_1.Data"/>
+<entry key="StringCell" type="xstring" value="              Sottoarea_90.Prodotto_2.Data"/>
 </config>
 </config>
 </config>
@@ -37,7 +37,7 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Sottoarea_62"/>
+<entry key="StringCell" type="xstring" value="Sottoarea_90"/>
 </config>
 </config>
 </config>
@@ -58,7 +58,7 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Prodotto_1"/>
+<entry key="StringCell" type="xstring" value="Prodotto_2"/>
 </config>
 </config>
 </config>

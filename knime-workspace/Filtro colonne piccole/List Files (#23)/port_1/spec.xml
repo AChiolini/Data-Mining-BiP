@@ -12,353 +12,185 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="58"/>
+<entry key="array-size" type="xint" value="30"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott62.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott61.txt"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott63.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott62.txt"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott64.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott63.txt"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott65.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott64.txt"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott66.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott65.txt"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott67.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott66.txt"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott68.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott67.txt"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott69.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott68.txt"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott70.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott69.txt"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott71.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott70.txt"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott72.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott71.txt"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott73.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott72.txt"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott74.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott73.txt"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott75.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott74.txt"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott76.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott75.txt"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott77.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott76.txt"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott78.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott77.txt"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott79.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott78.txt"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott80.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott79.txt"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott81.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott80.txt"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott82.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott81.txt"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott83.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott82.txt"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott84.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott83.txt"/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott85.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott84.txt"/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott86.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott85.txt"/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott87.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott86.txt"/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott88.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott87.txt"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod1_sott89.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott88.txt"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott61.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott89.txt"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott62.txt"/>
-</config>
-</config>
-<config key="30">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott63.txt"/>
-</config>
-</config>
-<config key="31">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott64.txt"/>
-</config>
-</config>
-<config key="32">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott65.txt"/>
-</config>
-</config>
-<config key="33">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott66.txt"/>
-</config>
-</config>
-<config key="34">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott67.txt"/>
-</config>
-</config>
-<config key="35">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott68.txt"/>
-</config>
-</config>
-<config key="36">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott69.txt"/>
-</config>
-</config>
-<config key="37">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott70.txt"/>
-</config>
-</config>
-<config key="38">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott71.txt"/>
-</config>
-</config>
-<config key="39">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott72.txt"/>
-</config>
-</config>
-<config key="40">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott73.txt"/>
-</config>
-</config>
-<config key="41">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott74.txt"/>
-</config>
-</config>
-<config key="42">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott75.txt"/>
-</config>
-</config>
-<config key="43">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott76.txt"/>
-</config>
-</config>
-<config key="44">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott77.txt"/>
-</config>
-</config>
-<config key="45">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott78.txt"/>
-</config>
-</config>
-<config key="46">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott79.txt"/>
-</config>
-</config>
-<config key="47">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott80.txt"/>
-</config>
-</config>
-<config key="48">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott81.txt"/>
-</config>
-</config>
-<config key="49">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott82.txt"/>
-</config>
-</config>
-<config key="50">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott83.txt"/>
-</config>
-</config>
-<config key="51">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott84.txt"/>
-</config>
-</config>
-<config key="52">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott85.txt"/>
-</config>
-</config>
-<config key="53">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott86.txt"/>
-</config>
-</config>
-<config key="54">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott87.txt"/>
-</config>
-</config>
-<config key="55">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott88.txt"/>
-</config>
-</config>
-<config key="56">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott89.txt"/>
-</config>
-</config>
-<config key="57">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella (2)\prod2_sott90.txt"/>
+<entry key="StringCell" type="xstring" value="C:\Users\aless_000\Desktop\prod2 piccole\prod2_sott90.txt"/>
 </config>
 </config>
 </config>
@@ -375,353 +207,185 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="58"/>
+<entry key="array-size" type="xint" value="30"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott62.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott61.txt"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott63.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott62.txt"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott64.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott63.txt"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott65.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott64.txt"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott66.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott65.txt"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott67.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott66.txt"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott68.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott67.txt"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott69.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott68.txt"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott70.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott69.txt"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott71.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott70.txt"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott72.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott71.txt"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott73.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott72.txt"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott74.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott73.txt"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott75.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott74.txt"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott76.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott75.txt"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott77.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott76.txt"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott78.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott77.txt"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott79.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott78.txt"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott80.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott79.txt"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott81.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott80.txt"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott82.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott81.txt"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott83.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott82.txt"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott84.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott83.txt"/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott85.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott84.txt"/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott86.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott85.txt"/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott87.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott86.txt"/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott88.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott87.txt"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod1_sott89.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott88.txt"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott61.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott89.txt"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott62.txt"/>
-</config>
-</config>
-<config key="30">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott63.txt"/>
-</config>
-</config>
-<config key="31">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott64.txt"/>
-</config>
-</config>
-<config key="32">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott65.txt"/>
-</config>
-</config>
-<config key="33">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott66.txt"/>
-</config>
-</config>
-<config key="34">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott67.txt"/>
-</config>
-</config>
-<config key="35">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott68.txt"/>
-</config>
-</config>
-<config key="36">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott69.txt"/>
-</config>
-</config>
-<config key="37">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott70.txt"/>
-</config>
-</config>
-<config key="38">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott71.txt"/>
-</config>
-</config>
-<config key="39">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott72.txt"/>
-</config>
-</config>
-<config key="40">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott73.txt"/>
-</config>
-</config>
-<config key="41">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott74.txt"/>
-</config>
-</config>
-<config key="42">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott75.txt"/>
-</config>
-</config>
-<config key="43">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott76.txt"/>
-</config>
-</config>
-<config key="44">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott77.txt"/>
-</config>
-</config>
-<config key="45">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott78.txt"/>
-</config>
-</config>
-<config key="46">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott79.txt"/>
-</config>
-</config>
-<config key="47">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott80.txt"/>
-</config>
-</config>
-<config key="48">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott81.txt"/>
-</config>
-</config>
-<config key="49">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott82.txt"/>
-</config>
-</config>
-<config key="50">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott83.txt"/>
-</config>
-</config>
-<config key="51">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott84.txt"/>
-</config>
-</config>
-<config key="52">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott85.txt"/>
-</config>
-</config>
-<config key="53">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott86.txt"/>
-</config>
-</config>
-<config key="54">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott87.txt"/>
-</config>
-</config>
-<config key="55">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott88.txt"/>
-</config>
-</config>
-<config key="56">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott89.txt"/>
-</config>
-</config>
-<config key="57">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/Nuova%20cartella%20(2)/prod2_sott90.txt"/>
+<entry key="StringCell" type="xstring" value="file:/C:/Users/aless_000/Desktop/prod2%20piccole/prod2_sott90.txt"/>
 </config>
 </config>
 </config>

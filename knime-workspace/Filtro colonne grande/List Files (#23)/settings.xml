@@ -7,7 +7,7 @@
 </config>
 <config key="model">
 <entry key="extensions" type="xstring" value=""/>
-<entry key="file_location" type="xstring" value="C:\Users\aless_000\Desktop\Nuova cartella"/>
+<entry key="file_location" type="xstring" value="C:\Users\aless_000\Desktop\prod2 grandi"/>
 <entry key="list_recursive" type="xboolean" value="false"/>
 <entry key="filter_panel_settings" type="xstring" value="None"/>
 <entry key="case_sensitive" type="xboolean" value="false"/>
@@ -33,12 +33,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 169, Cols: 2"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 112, Cols: 2"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="cb8ad96c-c9ba-4c9a-9ce5-b64b148b6336"/>
+<entry key="file_store_id" type="xstring" value="8dfd5ce0-0c27-4919-8d51-ce719d083317"/>
 </config>
 </config>

@@ -1,1 +1,5 @@
-C:\Users\Alessandro\Documents\GitHub\data-mining\data.csv
+C:\Users\aless_000\Desktop\Prodotto1.csv
+C:\Users\aless_000\Desktop\data_filtered.csv
+C:\Users\aless_000\Desktop\Recap Prodotto 2.csv
+C:\Users\aless_000\Desktop\data.csv
+C:\Users\aless_000\Desktop\Recap Prodotto 1.csv
