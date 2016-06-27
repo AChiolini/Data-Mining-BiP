@@ -1,0 +1,53 @@
+Use "Dataset con GPS (festivo)"
+
+
+Preprocess:
+Open file->Enable "invoke options dialog" and select a dataset
+Select file type "CSV" and select the file.
+Under "dateAttributes" insert "7"
+And modify "dateFormat" as follow: yyyy-MM-dd
+Click OK
+
+
+Under "Attributes" select the columns from the first to the 6th and click "Remove"
+
+Under "FORECAST" panel:
+
+BASIC CONFIGURATION:
+Target=Vendite (already selected probably)
+Parameters: Number of time units to forecast: 10
+Enable "Perform evaluation"
+
+
+
+ADVANCED CONFIGURATION:
+BASE LEARNER: random forest with 300 "numIteractions"
+
+LAG CREATION: tick ON on "use custom lag lengths"
+minimum lag=1
+maximum lag=365
+fine tuning: 30,60,90,365
+
+EVALUATION:
+enable the first 4 optins: MAE, MSE, RMSE, MAPE
+
+OUTPUT:
+Enable "output predictions at step", step to output=10
+
+START
+
+default name:"prod1_sott1"
+
+What to save?
+-the model (right click on result list and "save forecasting model")
+-output (select something, click CTRL+A to select all and then CTRL+C to copy) in a .txt text file
+
+
+
+Suddivisione sottoaree (per entrambi i prodotti):
+Alberto: da 1 a 30 
+Alessandro Baldassari: da 31 a 60 (sottoarea 51 non c'è)
+Alessandro Chiolini: da 61 a 90
+Paolo: da 91 a 120
+Lucija: da 121 a 145
+

@@ -1,0 +1,95 @@
+
+{
+    "version":"3.1.2.v201603311235",
+    "created":"2016-06-09 18:57",
+    "nodestats":{
+        "nodes":[
+            {
+                "id":"org.knime.base.node.io.csvreader.CSVReaderNodeFactory#CSV Reader",
+                "nrexecs":4,
+                "exectime":48750,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter"
+            },
+            {
+                "id":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
+                "nrexecs":14,
+                "exectime":378,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.preproc.filter.nominal.NominalValueRowFilterNodeFactory#Nominal Value Row Filter"
+            },
+            {
+                "id":"org.knime.base.node.meta.xvalidation.XValidatePartitionerFactory#X-Partitioner",
+                "nrexecs":643,
+                "exectime":39538,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.mine.treeensemble.node.randomforest.learner.regression.RandomForestRegressionLearnerNodeFactory#Random Forest Learner (Regression)"
+            },
+            {
+                "id":"org.knime.base.node.meta.xvalidation.AggregateOutputNodeFactory#X-Aggregator",
+                "nrexecs":640,
+                "exectime":35016,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.mine.scorer.numeric.NumericScorerNodeFactory#Numeric Scorer"
+            },
+            {
+                "id":"org.knime.base.node.mine.treeensemble.node.randomforest.learner.regression.RandomForestRegressionLearnerNodeFactory#Random Forest Learner (Regression)",
+                "nrexecs":643,
+                "exectime":460198,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.mine.treeensemble.node.randomforest.predictor.regression.RandomForestRegressionPredictorNodeFactory#Random Forest Predictor (Regression)"
+            },
+            {
+                "id":"org.knime.base.node.mine.treeensemble.node.randomforest.predictor.classification.RandomForestClassificationPredictorNodeFactory#Random Forest Predictor",
+                "nrexecs":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.meta.xvalidation.AggregateOutputNodeFactory#X-Aggregator"
+            },
+            {
+                "id":"org.knime.base.node.mine.scorer.numeric.NumericScorerNodeFactory#Numeric Scorer",
+                "nrexecs":22,
+                "exectime":1771,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.preproc.filter.nominal.NominalValueRowFilterNodeFactory#Nominal Value Row Filter",
+                "nrexecs":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter",
+                "nrexecs":18,
+                "exectime":10747,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.meta.xvalidation.XValidatePartitionerFactory#X-Partitioner"
+            },
+            {
+                "id":"org.knime.base.node.mine.treeensemble.node.randomforest.predictor.regression.RandomForestRegressionPredictorNodeFactory#Random Forest Predictor (Regression)",
+                "nrexecs":641,
+                "exectime":63363,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.meta.xvalidation.AggregateOutputNodeFactory#X-Aggregator"
+            },
+            {
+                "id":"org.knime.base.node.preproc.double2int.DoubleToIntNodeFactory#Double To Int",
+                "nrexecs":20,
+                "exectime":1530,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.mine.scorer.numeric.NumericScorerNodeFactory#Numeric Scorer"
+            }
+        ],
+        "metaNodes":{
+        },
+        "wrappedNodes":{
+        }
+    },
+    "uptime":4575412,
+    "launches":3,
+    "timeSinceLastStart":489453,
+    "crashes":0,
+    "properlyShutDown":true
+}

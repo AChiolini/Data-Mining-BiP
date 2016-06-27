@@ -1,0 +1,27 @@
+
+DATA PREPARATION:
+
+Data transformation/Feature creation:
+-extraction of day of week from date
+-extraction of public holidays
+
+Data aggregation:
+-holidays and sundays as "festivo"
+
+
+Dimensionalityreduction/Feature subset selection:
+-(Zona, Area, Categoria prodotto, crossed out from files related to single Sottoarea)
+
+Outliers/Missing values:
+-sottoarea 20 sales at 0!!!! (almost always)
+
+
+
+FIRST TESTS:
+-knime Random Forest Classification/Regression...
+
+FINAL METHOD:
+-weka time series with plugin...
+-different learners (linear regression, random forest...(
+-lag column stuff
+-error reporting mape (with variation), mae....
