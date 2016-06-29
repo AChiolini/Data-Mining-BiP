@@ -1,6 +1,6 @@
 
 {
-    "version":"3.1.2.v201603311235",
+    "version":"3.1.3.v201604221432",
     "created":"2016-06-24 19:58",
     "nodestats":{
         "nodes":[
@@ -106,14 +106,14 @@
                 "id":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer",
                 "nrexecs":8,
                 "exectime":1241,
-                "nrcreated":3,
+                "nrcreated":4,
                 "successor":"n/a"
             },
             {
                 "id":"org.knime.base.node.io.csvreader.CSVReaderNodeFactory#CSV Reader",
-                "nrexecs":9,
-                "exectime":17033,
-                "nrcreated":4,
+                "nrexecs":10,
+                "exectime":17311,
+                "nrcreated":5,
                 "successor":"org.knime.base.node.preproc.cellsplit.CellSplitterNodeFactory#Cell Splitter"
             },
             {
@@ -150,9 +150,9 @@
         "wrappedNodes":{
         }
     },
-    "uptime":2283560,
-    "launches":6,
-    "timeSinceLastStart":820739,
+    "uptime":1815242,
+    "launches":9,
+    "timeSinceLastStart":64510,
     "crashes":0,
-    "properlyShutDown":true
+    "properlyShutDown":false
 }
