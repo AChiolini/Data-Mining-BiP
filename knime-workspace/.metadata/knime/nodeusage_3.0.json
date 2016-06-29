@@ -64,7 +64,7 @@
                 "id":"org.knime.base.node.preproc.rename.RenameNodeFactory#Column Rename",
                 "nrexecs":686,
                 "exectime":1997,
-                "nrcreated":0,
+                "nrcreated":1,
                 "successor":"n/a"
             },
             {
@@ -104,8 +104,8 @@
             },
             {
                 "id":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer",
-                "nrexecs":8,
-                "exectime":1241,
+                "nrexecs":11,
+                "exectime":1315,
                 "nrcreated":4,
                 "successor":"n/a"
             },
@@ -143,6 +143,13 @@
                 "exectime":2469,
                 "nrcreated":1,
                 "successor":"n/a"
+            },
+            {
+                "id":"org.knime.ext.poi.node.read2.XLSReaderNodeFactory#XLS Reader",
+                "nrexecs":2,
+                "exectime":331,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer"
             }
         ],
         "metaNodes":{
@@ -150,9 +157,9 @@
         "wrappedNodes":{
         }
     },
-    "uptime":1815242,
-    "launches":9,
-    "timeSinceLastStart":64510,
+    "uptime":1661742,
+    "launches":11,
+    "timeSinceLastStart":46301,
     "crashes":0,
-    "properlyShutDown":false
+    "properlyShutDown":true
 }
