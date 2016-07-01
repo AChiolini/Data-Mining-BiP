@@ -1,8 +1,8 @@
+C:\Users\aless_000\Desktop\Prodotto2+GPS.csv
+C:\Users\aless_000\Desktop\Prodotto1+GPS.csv
+C:\Users\aless_000\prod2 32.csv
 C:\Users\aless_000\Desktop\Proddotto2+GPS.csv
 C:\Users\aless_000\Desktop\Proddotto1+GPS.csv
-C:\Users\aless_000\prod2 32.csv
 C:\Users\aless_000\prod2_piccolo.csv
 C:\Users\aless_000\Prodotto1_ordered.csv
 C:\Users\aless_000\Desktop\data_filtered.csv
-C:\Users\aless_000\prod2 grandi.csv
-C:\Users\aless_000\prod1 grandi.csv

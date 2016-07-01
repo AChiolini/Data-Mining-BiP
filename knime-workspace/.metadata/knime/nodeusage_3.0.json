@@ -6,45 +6,45 @@
         "nodes":[
             {
                 "id":"org.knime.base.node.io.listfiles2.ListFilesNodeFactory#List Files",
-                "nrexecs":6,
-                "exectime":225,
+                "nrexecs":7,
+                "exectime":250,
                 "nrcreated":0,
                 "successor":"n/a"
             },
             {
                 "id":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
-                "nrexecs":2337,
-                "exectime":6014,
-                "nrcreated":6,
-                "successor":"org.knime.ext.poi.node.write2.XLSWriter2NodeFactory#XLS Writer"
+                "nrexecs":2360,
+                "exectime":6040,
+                "nrcreated":7,
+                "successor":"org.knime.base.node.meta.looper.LoopEndNodeFactory#Loop End"
             },
             {
                 "id":"org.knime.base.node.flowvariable.variableloophead.LoopStartVariableNodeFactory#Table Row To Variable Loop Start",
-                "nrexecs":386,
-                "exectime":339,
+                "nrexecs":387,
+                "exectime":374,
                 "nrcreated":0,
-                "successor":"org.knime.base.node.io.linereader.LineReaderNodeFactory#Line Reader"
+                "successor":"org.knime.base.node.io.filereader.FileReaderNodeFactory#File Reader"
             },
             {
                 "id":"org.knime.base.node.io.linereader.LineReaderNodeFactory#Line Reader",
                 "nrexecs":387,
                 "exectime":2031,
-                "nrcreated":0,
+                "nrcreated":1,
                 "successor":"n/a"
             },
             {
                 "id":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter",
-                "nrexecs":1935,
-                "exectime":5807,
-                "nrcreated":0,
-                "successor":"n/a"
+                "nrexecs":1958,
+                "exectime":5858,
+                "nrcreated":3,
+                "successor":"org.knime.base.node.preproc.cellsplit.CellSplitterNodeFactory#Cell Splitter"
             },
             {
                 "id":"org.knime.base.node.preproc.cellsplit.CellSplitterNodeFactory#Cell Splitter",
-                "nrexecs":1164,
-                "exectime":9049,
-                "nrcreated":2,
-                "successor":"org.knime.ext.poi.node.write2.XLSWriter2NodeFactory#XLS Writer"
+                "nrexecs":1186,
+                "exectime":9577,
+                "nrcreated":3,
+                "successor":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter"
             },
             {
                 "id":"org.knime.base.node.preproc.colconvert.stringtonumber.StringToNumberNodeFactory#String To Number",
@@ -99,14 +99,14 @@
                 "id":"org.knime.base.node.meta.looper.LoopEndNodeFactory#Loop End",
                 "nrexecs":387,
                 "exectime":337,
-                "nrcreated":0,
+                "nrcreated":1,
                 "successor":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter"
             },
             {
                 "id":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer",
                 "nrexecs":11,
                 "exectime":1315,
-                "nrcreated":4,
+                "nrcreated":5,
                 "successor":"n/a"
             },
             {
@@ -125,9 +125,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.groupby.GroupByNodeFactory#GroupBy",
-                "nrexecs":3,
-                "exectime":4535,
-                "nrcreated":2,
+                "nrexecs":5,
+                "exectime":4632,
+                "nrcreated":4,
                 "successor":"org.knime.base.node.preproc.joiner.Joiner2NodeFactory#Joiner"
             },
             {
@@ -139,17 +139,24 @@
             },
             {
                 "id":"org.knime.ext.poi.node.write2.XLSWriter2NodeFactory#XLS Writer",
-                "nrexecs":2,
-                "exectime":2469,
-                "nrcreated":1,
+                "nrexecs":28,
+                "exectime":3000,
+                "nrcreated":2,
                 "successor":"n/a"
             },
             {
                 "id":"org.knime.ext.poi.node.read2.XLSReaderNodeFactory#XLS Reader",
                 "nrexecs":2,
                 "exectime":331,
-                "nrcreated":1,
+                "nrcreated":2,
                 "successor":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer"
+            },
+            {
+                "id":"org.knime.base.node.io.filereader.FileReaderNodeFactory#File Reader",
+                "nrexecs":15,
+                "exectime":390,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter"
             }
         ],
         "metaNodes":{
@@ -157,9 +164,9 @@
         "wrappedNodes":{
         }
     },
-    "uptime":1661742,
-    "launches":11,
-    "timeSinceLastStart":46301,
-    "crashes":0,
-    "properlyShutDown":true
+    "uptime":2054935,
+    "launches":13,
+    "timeSinceLastStart":64342,
+    "crashes":1,
+    "properlyShutDown":false
 }

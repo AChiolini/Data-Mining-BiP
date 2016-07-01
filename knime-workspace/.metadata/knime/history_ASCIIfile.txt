@@ -1,1 +1,7 @@
 knime://knime.workflow/data.all
+file:/C:/Users/aless_000/Desktop/RESULTS/prod1_sott3.txt
+file:/C:/Users/aless_000/Desktop/RESULTS/prod1_sott2.txt
+file:/C:/Users/aless_000/Desktop/RESULTS/prod1_sott5.txt
+file:/C:/Users/aless_000/Desktop/RESULTS/prod1_sott4.txt
+file:/C:/Users/aless_000/Documents/Github/Data%20Mining/RESULTS/prod1_sott2.txt
+file:/C:/Users/aless_000/Documents/Github/Data%20Mining/RESULTS/prod1_sott1.txt
