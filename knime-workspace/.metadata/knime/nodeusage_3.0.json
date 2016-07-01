@@ -104,8 +104,8 @@
             },
             {
                 "id":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer",
-                "nrexecs":11,
-                "exectime":1315,
+                "nrexecs":13,
+                "exectime":1444,
                 "nrcreated":5,
                 "successor":"n/a"
             },
@@ -146,8 +146,8 @@
             },
             {
                 "id":"org.knime.ext.poi.node.read2.XLSReaderNodeFactory#XLS Reader",
-                "nrexecs":2,
-                "exectime":331,
+                "nrexecs":4,
+                "exectime":1090,
                 "nrcreated":2,
                 "successor":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer"
             },
@@ -164,9 +164,9 @@
         "wrappedNodes":{
         }
     },
-    "uptime":2054935,
+    "uptime":2096064,
     "launches":13,
-    "timeSinceLastStart":64342,
+    "timeSinceLastStart":599024,
     "crashes":1,
-    "properlyShutDown":false
+    "properlyShutDown":true
 }
